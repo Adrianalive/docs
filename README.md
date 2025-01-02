@@ -28,7 +28,7 @@ If you find a bug or inaccuracy in the documentation content, please report it i
 ## Author 
 
 [Auth0](https://auth0.com)
-
+[auth0] [Rianav28@outlook.com] [propex4@gmail.com] [rixi2203]  [ADRIANAMUSIC] 
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
